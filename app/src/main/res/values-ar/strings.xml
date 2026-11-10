@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المهام</string>
+    <string name="widget_desc">قائمة مهام قابلة لتغيير الحجم</string>
+    <string name="empty">لا مهام. اضغط + للإضافة</string>
+    <string name="customize">تخصيص الويدجت</string>
+    <string name="bg_color">لون الخلفية</string>
+    <string name="opacity">الشفافية</string>
+    <string name="transparent">شفاف</string>
+    <string name="text_color">لون النص</string>
+    <string name="dark">داكن</string>
+    <string name="light">فاتح</string>
+    <string name="new_task">مهمة جديدة</string>
+    <string name="edit_task">تعديل المهمة</string>
+    <string name="hint">اكتب المهمة</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+</resources>
